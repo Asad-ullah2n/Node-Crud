@@ -1,0 +1,7 @@
+// start working with backend.....
+1,create index.js file
+2, install nodemon and configure it  :'"dev": "nodemon index.js"
+3 install express ,
+4 install mongoose
+5 create data base in atlas mongo 
+6 install thunder extension for api cheacking,
